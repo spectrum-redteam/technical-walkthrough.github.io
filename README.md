@@ -1,4 +1,4 @@
-: # Technical Walkthrough: Spectrum
+# Technical Walkthrough: Spectrum
 
 ## 1. Introduction: The Vision of Spectrum
 The project, internally titled **Spectrum**, represents a prototype for an autonomous "Cyber Reasoning System" (CRS). Unlike traditional security tools that rely on static signatures or hard-coded heuristics, Spectrum utilizes Large Language Models (LLMs)—specifically the DeepSeek-V4 and Qwen families—to perform high-level planning, exploitation, and remediation.
